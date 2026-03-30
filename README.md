@@ -12,7 +12,7 @@ for both authors and artists.
 Instructions will be added as development progresses.
 
 ## Tech
-- Language: JavaScript (Node.js) / Python  ← pick whichever you chose
+- Language: Java
 - Core Data Structure: HashMap
 
 ## Course
